@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wieldberries-parser-sheets",
+  "private_key_id": "018b085261740917ca92a247540a88cd5f8fb8df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5nFfsjTGrtXt9\nzSSRcoqTRP/02816YDKe8RhrruAI0pAanz5GFt82Qz0BUuGyC6zfi1KUQ/aOJIKY\nKcCgfK3nV6HCS5YS38s1zUuLE8qGvqmolu1uvIhhcnRYYgju8phrDdaiw93yYtqR\nbO2bLl99p9rTtNp017Ljo0oXWBqgvactmFBr5MAz4VV8mMBjj9L5baRznEkTbpMp\nxwv64wJJh15UFIxvVZ0km40Kab9eZ/gWlOg+5ZK8mfSC/tz7x6TfiHW/MswzeNKR\nsUo81+jrQABcv28/TKtpVF2jvPqj5ysigqug73ZmTmwoo7UgRMzDdfPkUiRzz/SY\na8ge7EpTAgMBAAECggEACMIoYfitqdkX+TE3cweRI27jlxXSJd6pNNfSm642UyRA\neYkfIqaMpN5aYBgdn02uvCOyY12rojx1zyFVPh10BVEcyHLRo5Vc3O6RjIAEFASm\nM9bfYFTUKKkCdXM20bOv3olaIfcVH41rm+Ykdiijh+XmTQwhLNdK0TQQ2HYnV4NW\nxUShiBd5xCwYYGToBPi25Z8MwNT0d/WrZeHlye//g9bHLo18OBqI0cyccH3BTpVa\nQ3xYF/ELuNILwntTjNukwSjLy1fUXuMyDvNroyMF1K1Ox2SVa/m4qDYwZ7/grvL4\nuVXmSooE/tO204YN15Cy2AHz4n5kWYU6WMsbS6HWTQKBgQD3pd8QZNIDZdQRAJYj\n4qjg+/bPksIhrAAWZpoZjFzCWZLnH6uAtqIbCDhanXM+ANINlaAlUWsi3m2LaoaE\nHxt97sc4TDx1AY30yzrjwGgI1NtBT2z6h2LWj083FRy7+ms1Q4iV9+Iq/D/kf/0C\nUXotSjgjxNFvsbZWVrHzkm5ShQKBgQC/3tvT5bY92R1SrqYRxdba8v8un2WIOS/g\nGF/Co6/5q3iKdx4weAc/XKGYEneeb17L7fg7TxDA6+SXaMKuhmYRmWqySGcSDhFd\nKbf0nb467Em4060y/EdST8npQ1AzgD8aJR+dgkjk3IaCF8DJG3wSRg7tLwBTakNZ\ny49bNq289wKBgQDNli/2JhyKoZBJhRkfNV1JWSLt80GiPm3cKtUm/HVNCpt/r7Tq\np7MvicVuxGMVSA0ZJevKzyqHyeta39ZH/KMQCpfsTq2p3N6CJ+z9gY9cNYjHUS6B\nVL9iq5nxel9eVmeF0kijZyOk18Aa632Y3Rb2XjT4zL2pYfii+FnGgPuBGQKBgGio\ng3heAL5Tw67qHSPsqnnbul4QDC32I6s1IGbnKoIhiirdNtZxYmKpgGuXBzCgxzCt\nqY2QXy8cfSApwKe6H8rRyGVfIPm0Orx6mSEROkahxMTQkdURz0WSyCw4z3KILeNx\nBIHCI0jTEXu8wSfxmgfNty6hSKg3em1sn9G9TZ+ZAoGBAKU8oXiU8a89h9qAq72f\n/+8LLAuEg6pdtDwJ+QSvMvw6I6dYhND7JqjtnpDWHSCzMkZJjwzd8LsvSKD2RjOS\nZkt0l5WHtJ1e+Iraba9aM70vLww6i/vFZMhf0Kg7l39sVWTFzEb/c/SfTOzlwpOQ\nTvAOj62AEPJ9bNsjre68H9F8\n-----END PRIVATE KEY-----\n",
+  "client_email": "wieldaccount@wieldberries-parser-sheets.iam.gserviceaccount.com",
+  "client_id": "103693376347419421226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wieldaccount%40wieldberries-parser-sheets.iam.gserviceaccount.com"
+}
